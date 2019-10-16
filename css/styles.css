@@ -1,0 +1,36 @@
+body {
+  background-color: #ccffcc;
+  margin:20px;
+}
+header {
+  background-color: #66ffc2;
+  padding: 20px;
+  text-align: center;
+}
+h1 {
+  font-size: 48px;
+  text-align: center;
+  background-color: #66ffc2;
+  color: #004d00;
+}
+.about {
+  font-size: 24px;
+  text-align: left;
+  padding: 20px;
+  margin-bottom: 60px;
+  background-color: #99ff99;
+  color: #004d99;
+}
+
+.posts {
+  font-size: 18px;
+  background-color: #66ffb3;
+  color: #006666;
+  padding: 20px;
+}
+
+h2.posts {
+  font-size: 20px;
+  font-weight: bold;
+  padding: 20px;
+}
